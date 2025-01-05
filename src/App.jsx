@@ -26,7 +26,7 @@ function App() {
             <li className="features-list-item">
               <h2 className="subtitle">Надійно</h2>
               <div className="description">
-                Обирай верифікованого конрагента за рейтингом
+                Обирай верифікованого контрагента за рейтингом
               </div>
             </li>
             <li className="features-list-item">
