@@ -36,7 +36,7 @@ function App() {
                         <li className="features-list-item">
                             <h2 className="subtitle">Найближче майбутнє</h2>
                             <ul className="features-inner-list">
-                                <li className="dotted">Ітеративна розробка з постійним отримання відгуків від компаній різного розміру</li>
+                                <li className="dotted">Ітеративна розробка з постійним отриманням відгуків від компаній різного розміру</li>
                                 <li className="dotted">Швидкий вихід на ринок</li>
                                 <li className="dotted">Активні маркетингові дії та особисті зустрічі з керівниками великих компаній</li>
                                 <li className="dotted">Лідерство в Україні</li>
